@@ -1,1 +1,1 @@
-This is a pet project
+This is a pet project for AWS
