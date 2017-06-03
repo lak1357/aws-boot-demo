@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: ./aws-boot-demo-0.0.1.war
-    destination: /usr/share/tomcat8/webapps/aws-boot-demo.war
+    destination: /usr/share/tomcat8/webapps
