@@ -5,7 +5,7 @@ import com.amazonaws.services.sqs.AmazonSQSClientBuilder;
 
 public class Main {
 
-	private static String QUEUE_URL = "https://sqs.ap-southeast-1.amazonaws.com/936825406282/TEST_JAVA";
+	private static String QUEUE_URL = "https://sqs.ap-southeast-1.amazonaws.com/XXXXXXXXX/TEST_JAVA";
 
 	public static void main(String[] args) {
 
